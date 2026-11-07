@@ -4,3 +4,9 @@
 - Copilot can suggest code examples for manipulating HTML elements.
 - I should test Copilot's suggestions to check if they work correctly.
 
+### Task 2 – Learning with Copilot
+
+- Copilot helped me understand how to access HTML elements.
+- Copilot suggested JavaScript code to modify a list.
+- Testing the code helped me understand how JavaScript changes a webpage.
+
